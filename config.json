@@ -1,0 +1,20 @@
+{
+    "asterisk":{
+      "user": "admin",
+      "pwd" : "123",
+      "host": "127.0.0.1",
+      "port": "5038"
+    },
+    "ramais":[
+            {
+             "ramal": "1004",
+             "tempo": "30"
+            },
+            {
+             "ramal": "1010",
+             "tempo": "10"
+            }
+    ],
+    "verificarCada":"60000"
+
+  }  

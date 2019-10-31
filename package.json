@@ -1,0 +1,12 @@
+{
+    "name": "asterisk-monitora-chamadas",
+    "version": "1.0.0",
+    "description": "Fica conectado no asterisk, para monitorar o tempo de chamadas que excedem um tempo definido no config.json",
+    "main": "app.js",
+    "author": "Luiz Sales - Agencia56k",
+    "license": "ISC",
+    "dependencies": {
+      "asterisk-manager": "^0.1.15"
+    }
+  }
+  
